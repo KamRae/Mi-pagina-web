@@ -63,7 +63,7 @@ h4{font-size:20px;margin:8px 0}
 .btn.secondary{background:transparent}
 .social-row{color:#cfe5fb}
 .social-row small{color:var(--muted)}
-.hero-visual{position:relative;min-height:520px}
+.hero-visual{position:relative;min-height:620px}
 .portrait-frame{
   position:absolute;right:0;bottom:0;width:min(88%,470px);height:510px;
   border-radius:28px 28px 10px 10px;overflow:hidden;
